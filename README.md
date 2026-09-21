@@ -1,21 +1,21 @@
 # ZenSpace
 
-Check it out [Here](https://awt-zenspace.web.app/).
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fawt-zenspace.web.app&label=awt-zenspace.web.app&style=flat-square)](https://awt-zenspace.web.app)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[![Last commit](https://img.shields.io/github/last-commit/MayurJivani/zenspace?style=flat-square)](https://github.com/MayurJivani/zenspace/commits/main)
 
-## Available Scripts
+Virtual study spaces: pick a room, start the timer, keep a to-do list beside it,
+and put your own music or a YouTube video on in the background.
 
-In the project directory, you can run:
+**Live:** [awt-zenspace.web.app](https://awt-zenspace.web.app)
 
-### `npm start`
+## Running it
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+npm install
+npm start      # http://localhost:3000
+npm run build  # production bundle in build/
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
+Built with Create React App and deployed to Firebase Hosting.

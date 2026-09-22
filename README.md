@@ -7,8 +7,6 @@
 [![Stars](https://img.shields.io/github/stars/MayurJivani/zenspace?style=flat-square)](https://github.com/MayurJivani/zenspace/stargazers)
 [![Issues](https://img.shields.io/github/issues/MayurJivani/zenspace?style=flat-square)](https://github.com/MayurJivani/zenspace/issues)
 ![Code size](https://img.shields.io/github/languages/code-size/MayurJivani/zenspace?style=flat-square)
-![vibe](https://img.shields.io/badge/vibe-study-27ae60?style=flat-square)
-![procrastination](https://img.shields.io/badge/procrastination-timed-e67e22?style=flat-square)
 
 Virtual study spaces: pick a room, start the timer, keep a to-do list beside it,
 and put your own music or a YouTube video on in the background.
